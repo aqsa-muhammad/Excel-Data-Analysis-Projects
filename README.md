@@ -9,19 +9,32 @@ Heres my [CV](https://github.com/aqsa-muhammad/AQSA-DATA-ANALYST-RESUME/blob/mai
 
 # Table of Content
 - About
-- Portfolio Project
-  - Basic Power Query Medals Project
+- Excel Data Analysis Projects
+  - Basic Power Query Medals Excel Project
+  - Power Query II Staff Data Excel Project
 
-# Excel-Data-Analysis-Projects
+# Excel Data Analysis Projects
 Worked on various Excel-based projects involving data cleaning, analysis, and visualization. Used tools like Power Query for transforming raw data, PivotTables for summarizing large datasets, and formulas (VLOOKUP, INDEX-MATCH, IF, SUMIFS) to analyze trends and patterns. Created charts, dashboards, and reports to present findings clearly, helping identify insights and support data-driven decisions.
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-# Basic Power Query Medals Project
-[📂 View Excel File](https://github.com/aqsa-muhammad/Excel-Data-Analysis-Projects/blob/main/POwer%20Query%20Excel%20work.xlsx)
+# Basic Power Query Medals Excel Project
+[📂 View Excel File](https://github.com/aqsa-muhammad/Excel-Data-Analysis-Projects/blob/main/Power%20Query%20I%20-%20Medals-Data.xlsx)
 
-This project explores Power Query as a data extraction and transformation tool within Excel. It walks through pulling live data from the web (the 2020 Summer Olympics medal table from Wikipedia) and cleaning a messy employee dataset — handling missing values, inconsistent text, and duplicate/irrelevant columns.
+This project explores Power Query as a data extraction and transformation tool within Excel. It walks through pulling live data from the web (the 2020 Summer Olympics medal table from Wikipedia) and cleaning a messy employee dataset - handling missing values, inconsistent text, and duplicate/irrelevant columns.
 
 Skills: web scraping, Power Query, data cleaning, Fill Down, Adding columns, Replace value, Find total % of gold
 
 Datasets
 * 2020 Summer Olympics medal table (web-scraped)
+
+# Power Query II Staff Data Excel Project
+[📂 View Excel File](https://github.com/aqsa-muhammad/Excel-Data-Analysis-Projects/blob/main/Power%20Query%20II-staff-data.xlsx)
+
+This project explores Power Query as a data cleaning and transformation tool within Excel. It walks through cleaning a messy employee dataset - trimming inconsistent text, handling missing values, and building conditional columns to bucket salaries, calculate tenure, and flag employment type.
+
+Skills: Power Query, data cleaning, Trim, Replace Values, Conditional Columns, Salary Bucketing, Tenure Calculation, Full-Time/Part-Time Flagging
+
+Datasets
+* Staff dataset (employee records — name, gender, department, salary, start date, FTE)
+
+
